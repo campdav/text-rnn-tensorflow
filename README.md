@@ -1,5 +1,5 @@
 # text-rnn-tensorflow
-Tutorial: Multi-layer Recurrent Neural Networks (LSTM, RNN) for text models in Python using TensorFlow.
+Tutorial: Multi-layer Recurrent Neural Networks (LSTM) for text models in Python using TensorFlow.
 
 
 Before going through this tutorial, I suggest to read the very very good blog note from Andrej Karpathy: http://karpathy.github.io/2015/05/21/rnn-effectiveness/
@@ -48,8 +48,8 @@ If you want to use a more strengthened code, a more optimized code, embedding mo
 
 # additional notes
 The project comes with two types of input:
-- data/tinyshakespeare/input.txt:
+- __data/tinyshakespeare/input.txt__:
   - a small condensate of Shakespeare books
-- data/Artistes_et_Phalanges-David_campion/input.txt:
+- __data/Artistes_et_Phalanges-David_campion/input.txt__:
   - The complete text of a french fantasy book "Artistes et Phalanges", by David Campion
-  - This file book is under the following licence: Licence Creative Commons [CC BY-NC-ND] (https://creativecommons.org/licenses/by-nc-nd/4.0/)
+  - This file book is under the following licence: Licence Creative Commons [CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/)
